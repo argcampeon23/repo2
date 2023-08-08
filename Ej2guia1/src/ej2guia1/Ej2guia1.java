@@ -15,6 +15,8 @@ public class Ej2guia1 {
     public static void main(String[] args) {
         System.out.println("soy anabela");
         // TODO code application logic here
+        
+        System.out.println(" Ahora si !!! :) | soy nico");
     }
     
     // Hola, esto anda//
